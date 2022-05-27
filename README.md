@@ -1,3 +1,5 @@
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=palagdan)](https://github.com/anuraghazra/github-readme-stats)
 - 👋 Hi, I’m Daniil Palagin
 - 👀 I’m interested in Java, RestAPI, SpringBoot, Sql, PostgreSQL,  Git.
 - 🌱 I’m currently learning Spring.
