@@ -1,2 +1,1 @@
-
-![cropped_art_pixel](https://github.com/user-attachments/assets/4e9f0ec2-4193-4974-b31a-102a873d18cf)
+![romain-courtois-animation-parts](https://github.com/user-attachments/assets/c0ad3cfb-0436-4f9e-8b9f-0a11bf2751e7)
